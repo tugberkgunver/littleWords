@@ -1,4 +1,4 @@
-![alt text](https://i.ibb.co/YRVgnfn/iphone15.png)
+![alt text](https://i.imgur.com/RoyRG2L.png)
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
